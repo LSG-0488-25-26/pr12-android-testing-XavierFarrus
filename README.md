@@ -69,16 +69,16 @@ Afegiu aqui les evidencies demanades a l'enunciat:
 
 ### Captures app
 
-![App final - simulador](docs/images/app-final.png)
+![App final - simulador](img/App.png)
 
 ### Captures Unit Testing
 
-![Unit tests](docs/images/unit-tests.png)
+![Unit tests](img/UnitTesting.png)
 
 ### Captures UI Testing
 
-![UI tests](docs/images/ui-tests.png)
+![UI tests](img/InstrumentedTesting.png)
 
 ### Video UI Instrumental Testing
 
-- Enllac video: https://example.com/video-ui-testing
+- Enllac video: https://youtu.be/0wu9QaqZbwM
